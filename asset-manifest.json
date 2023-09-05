@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "https://meghanasakhamuri.github.io/csb-cx4n5h/static/js/main.914fe783.chunk.js",
+    "main.js.map": "https://meghanasakhamuri.github.io/csb-cx4n5h/static/js/main.914fe783.chunk.js.map",
+    "runtime-main.js": "https://meghanasakhamuri.github.io/csb-cx4n5h/static/js/runtime-main.ee1c9f13.js",
+    "runtime-main.js.map": "https://meghanasakhamuri.github.io/csb-cx4n5h/static/js/runtime-main.ee1c9f13.js.map",
+    "index.html": "https://meghanasakhamuri.github.io/csb-cx4n5h/index.html",
+    "precache-manifest.eab1de34dcddf85be182fc22d5eb51b7.js": "https://meghanasakhamuri.github.io/csb-cx4n5h/precache-manifest.eab1de34dcddf85be182fc22d5eb51b7.js",
+    "service-worker.js": "https://meghanasakhamuri.github.io/csb-cx4n5h/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee1c9f13.js",
+    "static/js/main.914fe783.chunk.js"
+  ]
+}
